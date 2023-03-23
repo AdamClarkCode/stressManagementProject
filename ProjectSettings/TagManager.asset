@@ -12,6 +12,25 @@ TagManager:
   - dayT
   - varController
   - Dbutton
+  - input
+  - day
+  - lvlTxt
+  - coin
+  - Sbutton
+  - background
+  - t1
+  - t2
+  - h1
+  - h2
+  - t3
+  - Speedbutton
+  - Healthbutton
+  - Damagebutton
+  - AttackSpeedbutton
+  - Luckbutton
+  - attributePoints
+  - cosController
+  - levelController
   layers:
   - Default
   - TransparentFX
@@ -46,6 +65,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: floor
+    uniqueID: 1715159669
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: weap
+    uniqueID: 501058055
     locked: 0

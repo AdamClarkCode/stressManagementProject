@@ -24,7 +24,7 @@ public class buttonController : MonoBehaviour
     private void dayScreen()
     {
         vr.dt = this.gameObject.GetComponent<dayVars>().dt;
-        vr.tasks = this.gameObject.GetComponent<dayVars>().tasks;
-        ui.dswitch();
+        //vr.tasks = this.gameObject.GetComponent<dayVars>().tasks;
+        ui.dSwitch();
     }
 }

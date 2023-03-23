@@ -4605,7 +4605,7 @@ GameObject:
   - component: {fileID: 1396228554}
   - component: {fileID: 1396228555}
   m_Layer: 0
-  m_Name: calanderManager
+  m_Name: calendarManager
   m_TagString: cal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4683,6 +4683,7 @@ MonoBehaviour:
   - {fileID: 1601252974}
   - {fileID: 1216721705}
   - {fileID: 144175133}
+  Mtasks: []
 --- !u!1 &1412198670 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1276447672936020655, guid: 45d50d1fa2c87dc4d8ebf7478db121c8, type: 3}
@@ -6815,3 +6816,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee88aec6bb2c2f6458445e7f4dbb4fe5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tasks: []
